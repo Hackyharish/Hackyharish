@@ -2,11 +2,10 @@
 <h3 align="center">Blending innovation with purpose | IoT, ML, and systems that make a difference</h3>
 
 - 🔭 I’m currently working on [Sodium-ion Battery Analysis using Machine Learning](https://github.com/Hackyharish/Analysis-of-Sodium-ion-Battery-using-ML?tab=readme-ov-file#-future-work)
-
+  
 - 🌱 I’m currently learning **Deep Learning , MATLAB , Embedded C**
 
 - 📫 How to reach me **harishr.vnr@gmail.com**
-  
 - 👨‍💻 All of my projects are available at **https://github.com/Hackyharish?tab=repositories**
 - ⚡ Fun fact **Photography is my hobby—which basically means I have the superpower to pause time 😎**
 
@@ -22,14 +21,16 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hackyharish&show_icons=true&locale=en&theme=" alt="Hackyharish" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hackyharish&show_icons=true&locale=en&theme=blue-green" alt="Hackyharish" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Hackyharish">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hackyharish&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hackyharish&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hackyharish&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hackyharish&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hackyharish&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hackyharish&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hackyharish&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hackyharish&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hackyharish&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hackyharish&theme=blue_green" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Hackyharish&theme=react-dark"/>
