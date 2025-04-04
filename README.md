@@ -8,7 +8,7 @@
 - 📫 How to reach me **harishr.vnr@gmail.com**
   
 - 👨‍💻 All of my projects are available at **https://github.com/Hackyharish**
-- ⚡ Fun fact **Photography is my hobby—which basically means I have the superpower to pause time.😎**
+- ⚡ Fun fact **Photography is my hobby—which basically means I have the superpower to pause time 😎**
 
 <div> <a href="https://github.com/Hackyharish" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:harishr.vnr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
