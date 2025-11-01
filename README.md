@@ -1,35 +1,21 @@
-<h1 align="center">Hey there!👋, I'm Harish R</h1>
-<h3 align="center">Blending innovation with purpose | IoT, ML, and systems that make a difference</h3>
+# 💫 About Me:
+🔭 I’m currently working on Sodium-ion Battery Analysis using Machine Learning<br><br>🌱 I’m currently learning Deep Learning , MATLAB , Embedded C<br><br>📫 How to reach me harishr.vnr@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/Hackyharish?tab=repositories<br><br>⚡ Fun fact Photography is my hobby—which basically means I have the superpower to pause time 😎
 
-- 🔭 I’m currently working on [Sodium-ion Battery Analysis using Machine Learning](https://github.com/Hackyharish/Analysis-of-Sodium-ion-Battery-using-ML?tab=readme-ov-file#-future-work)
-- 🌱 I’m currently learning **Deep Learning , MATLAB , Embedded C**
 
-- 📫 How to reach me **harishr.vnr@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/Hackyharish?tab=repositories**
-- ⚡ Fun fact **Photography is my hobby—which basically means I have the superpower to pause time 😎**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-r-8b68a333b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishr.vnr@gmail.com) 
 
-<div> <a href="https://github.com/Hackyharish" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:harishr.vnr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hackyharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hackyharish&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackyharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hackyharish&show_icons=true&locale=en&theme=gotham" alt="Hackyharish" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Hackyharish">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hackyharish&theme=gotham" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hackyharish&theme=gotham" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hackyharish&theme=gotham" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hackyharish&theme=gotham" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hackyharish&theme=gotham" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Hackyharish&theme=gotham"/>
+---
+[![](https://visitcount.itsvg.in/api?id=Hackyharish&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
