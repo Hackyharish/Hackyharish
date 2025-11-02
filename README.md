@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Sodium-ion Battery Analysis using Machine Learning<br><br>🌱 I’m currently learning Deep Learning , MATLAB , Embedded C<br><br>📫 How to reach me harishr.vnr@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/Hackyharish?tab=repositories<br><br>⚡ Fun fact Photography is my hobby—which basically means I have the superpower to pause time 😎
+🔭 I’m currently working on High-Efficiency Buck Converter Design with SiC
+MOSFETs for Solar Applications<br><br>🌱 I’m currently learning Deep Learning , MATLAB , Embedded C<br><br>📫 How to reach me harishr.vnr@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/Hackyharish?tab=repositories<br><br>⚡ Fun fact Photography is my hobby—which basically means I have the superpower to pause time 😎
 
 
 ## 🌐 Socials:
