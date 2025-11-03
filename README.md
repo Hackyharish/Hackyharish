@@ -1,22 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on High-Efficiency Buck Converter Design with SiC
-MOSFETs for Solar Applications<br><br>🌱 I’m currently learning Deep Learning , MATLAB , Embedded C<br><br>📫 How to reach me harishr.vnr@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/Hackyharish?tab=repositories<br><br>⚡ Fun fact Photography is my hobby—which basically means I have the superpower to pause time 😎
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harish-r-8b68a333b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishr.vnr@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hackyharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hackyharish&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackyharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <h1>Oh, hi 👋. I'm Harish.</h1>
+  <h3>Apparently, I'm a "curious mind" trying to tame robots, make machines think (uh-oh), and build "smart systems" 🤖📡📊</h3>
+  <h3>Mostly just trying to blend code that <i>finally</i> compiles with whatever "innovation" means this week | Constantly Googling, constantly confused... I mean, "creating" 🌱</h3>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hackyharish&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🔭 I’m currently losing sleep over a... [High-Efficiency (Sure) Buck Converter Design with SiC MOSFETs for Solar Applications](https://github.com/Hackyharish/High-Efficiency-Buck-Converter-Design-for-Solar-Applications)
+    * (Spoiler: it's mostly just hoping the MOSFETs don't explode 🔥)
+
+* 🌱 I’m currently drowning in **Deep Learning, MATLAB, and Embedded C**. Why? Good question.
+
+* 👨‍💻 All of my glorious, semi-functional projects are available for your judgment at [my GitHub graveyard](https://github.com/Hackyharish?tab=repositories).
+
+* 📫 How to reach me: **harishr.vnr@gmail.com**
+    * (Go on, add to the 1,204 unread emails. I dare you.)
+
+* ⚡ Fun fact: **My hobby is photography.** This gives me the god-like power to... pause time. Yes. That's *exactly* what's happening. Definitely not just clicking a button. 😎
+
+<h3 align="left">Connect with me (if you must):</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harish-r-8b68a333b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/hackyharish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My Digital Hoard (aka Languages and Tools):</h3>
+<p align="left">Look at all the shiny logos I've collected! I <i>totally</i> know how to use all of them. Expertly.
+<br><br>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="httpsWhat-is-this.com/pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+---
+<br>
+<p align="center">Behold! Graphs that prove I type things. Impressive, right?</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackyharish&show_icons=true&theme=dark&locale=en&layout=compact" alt="hackyharish" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackyharish&theme=dark" alt="hackyharish" /></p>
