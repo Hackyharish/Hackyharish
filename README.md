@@ -34,3 +34,6 @@
 <p align="center">Behold! Graphs that prove I type things. Impressive, right?</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackyharish&show_icons=true&theme=dark&locale=en&layout=compact" alt="hackyharish" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackyharish&theme=dark" alt="hackyharish" /></p>
+
+
+⭐ *If you read this far, congrats — you officially have more patience than my compiler.*
