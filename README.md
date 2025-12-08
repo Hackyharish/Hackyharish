@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Oh, hi 👋. I'm Harish.</h1>
-  <h3>Apparently, I'm a "curious mind" trying to tame robots, make machines think (uh-oh), and build "smart systems" 🤖📡📊</h3>
+  <h3>I'm a "curious mind" trying to tame robots, make machines think, and build "smart systems"</h3>
   <h3>Mostly just trying to blend code that <i>finally</i> compiles with whatever "innovation" means this week | Constantly Googling, constantly confused... I mean, "creating" 🌱</h3>
 </div>
 
