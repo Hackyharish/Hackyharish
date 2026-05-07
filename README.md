@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Embedded+Systems+%7C+Deep+Learning+%7C+MATLAB;SiC+MOSFETs+%7C+Buck+Converters+%7C+Solar;Always+Debugging%2C+Never+Sleeping+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Embedded+Systems+%7C+Deep+Learning+%7C+MATLAB;MOSFETs+%7C+Converters+%7C+Solar;Always+Debugging%2C+Never+Sleeping+%E2%9A%A1)
 
 # `>> WHO AM I?`
 
@@ -59,7 +59,6 @@ RISK_LEVEL : High (switching losses may cause existential crisis)
 
 <div align="center">
 
-<br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hackyharish&theme=dark&hide_border=true&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
 
@@ -83,6 +82,7 @@ RISK_LEVEL : High (switching losses may cause existential crisis)
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://harish-r-portfolio.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-r-8b68a333b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hackyharish/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hackyharish)
