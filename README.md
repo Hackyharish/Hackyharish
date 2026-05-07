@@ -1,39 +1,101 @@
 <div align="center">
-  <h1>Oh, hi 👋. I'm Harish.</h1>
-  <h3>I'm a "curious mind" trying to tame robots, make machines think, and build "smart systems"</h3>
-  <h3>Mostly just trying to blend code that <i>finally</i> compiles with whatever "innovation" means this week | Constantly Googling, constantly confused... I mean, "creating" 🌱</h3>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Embedded+Systems+%7C+Deep+Learning+%7C+MATLAB;SiC+MOSFETs+%7C+Buck+Converters+%7C+Solar;Always+Debugging%2C+Never+Sleeping+%E2%9A%A1)
+
+# `>> WHO AM I?`
+
+**Embedded Systems Tinkerer • ML Explorer • Photon Catcher**
+
+*Routing signals through silicon, training models on caffeine,*
+*and occasionally getting the oscilloscope to cooperate.*
+
 </div>
 
 ---
 
-* 🔭 I’m currently losing sleep over a... [High-Efficiency (Sure) Buck Converter Design with SiC MOSFETs for Solar Applications](https://github.com/Hackyharish/High-Efficiency-Buck-Converter-Design-for-Solar-Applications)
-    * (Spoiler: it's mostly just hoping the MOSFETs don't explode 🔥)
+## `[01]` ⚡ Current Load
 
-* 🌱 I’m currently drowning in **Deep Learning, MATLAB, and Embedded C**. Why? Good question.
+```yaml
+PROJECT    : High-Efficiency Buck Converter — SiC MOSFETs for Solar
+STATUS     : 🔴 LIVE — MOSFETs under stress testing (pray for them)
+SIGNALS_IN : Deep Learning · MATLAB · Embedded C
+REPO       : https://github.com/Hackyharish/High-Efficiency-Buck-Converter-Design-for-Solar-Applications
+RISK_LEVEL : High (switching losses may cause existential crisis)
+```
 
-* 👨‍💻 All of my glorious, semi-functional projects are available for your judgment at [my GitHub graveyard](https://github.com/Hackyharish?tab=repositories).
-
-* 📫 How to reach me: **harishr.vnr@gmail.com**
-    * (Go on, add to the 1,204 unread emails. I dare you.)
-
-* ⚡ Fun fact: **My hobby is photography.** This gives me the god-like power to... pause time. Yes. That's *exactly* what's happening. Definitely not just clicking a button. 😎
-
-<h3 align="left">Connect with me (if you must):</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harish-r-8b68a333b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/hackyharish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">My Digital Hoard (aka Languages and Tools):</h3>
-<p align="left">Look at all the shiny logos I've collected! I <i>totally</i> know how to use all of them. Expertly.
-<br><br>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="httpsWhat-is-this.com/pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+> ⚠️ *Warning: Engineer operates at 3.3V logic with 5V ambition*
 
 ---
+
+## `[02]` 🔌 Tech Stack — The Component Library
+
+<div align="center">
+
+### Firmware & Logic
+
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" title="Arduino" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" title="C" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" title="MATLAB" />
+
+### Signal Processing & ML
+
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" title="OpenCV" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="45" title="Pandas" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python" />
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" title="PyTorch" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-learn" />
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" title="TensorFlow" />
+
+### Design Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" title="Photoshop" />
+
+</div>
+
+---
+
+## `[03]` 📡 Signal Logs — GitHub Stats
+
+<div align="center">
+
 <br>
-<p align="center">Behold! Graphs that prove I type things. Impressive, right?</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackyharish&show_icons=true&theme=dark&locale=en&layout=compact" alt="hackyharish" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackyharish&theme=dark" alt="hackyharish" /></p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hackyharish&theme=dark&hide_border=true&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
 
-⭐ *If you read this far, congrats — you officially have more patience than my compiler.*
+</div>
+
+---
+
+## `[04]` 📸 Ground — Fun Fact
+
+> INPUT : Light photons hitting a sensor
+>
+> OUTPUT : Frozen moments in time
+>
+> SIDE EFFECT : God-like power over the space-time continuum
+
+*Photography: the only debugging tool where the result is actually beautiful.*
+
+---
+
+## `[05]` 🔗 I/O Ports — Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-r-8b68a333b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hackyharish/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hackyharish)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishr.vnr@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*⚡ If you read this far, your attention span has better efficiency than my buck converter.*
+
+**`— END OF TRANSMISSION —`**
+
+</div>
