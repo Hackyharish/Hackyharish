@@ -16,11 +16,11 @@
 ## `[01]` ⚡ Current Load
 
 ```yaml
-PROJECT    : High-Efficiency Buck Converter — SiC MOSFETs for Solar
-STATUS     : 🔴 LIVE — MOSFETs under stress testing (pray for them)
-SIGNALS_IN : Deep Learning · MATLAB · Embedded C
-REPO       : https://github.com/Hackyharish/High-Efficiency-Buck-Converter-Design-for-Solar-Applications
-RISK_LEVEL : High (switching losses may cause existential crisis)
+PROJECT    : Self-Commissioning Drive for PMSM using CCS-MPC with Prognostics using AI
+STATUS     : 🟡 IN PROGRESS — CCS-MPC + SVPWM model on STM32G474 / Typhoon HIL404
+SIGNALS_IN : Deep Learning · MATLAB/Simulink · Embedded C
+REPO       : https://github.com/Hackyharish/Self-Commissioning-Drive-for-PMSM-using-CCS-MPC-with-prognostics-using-AI
+RISK_LEVEL : Medium (parameter self-commissioning may reveal the motor's deepest insecurities)
 ```
 
 > ⚠️ *Warning: Engineer operates at 3.3V logic with 5V ambition*
