@@ -103,7 +103,7 @@ RISK_LEVEL : Medium (parameter self-commissioning may reveal the motor's deepest
 
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/Hackyharish?v=1787552666993"
+    src="https://gitascii.com/api/Hackyharish?v=1787553042510"
     alt="GitAscii Widget"
     width="100%"
   />
