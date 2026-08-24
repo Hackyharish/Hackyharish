@@ -99,3 +99,12 @@ RISK_LEVEL : Medium (parameter self-commissioning may reveal the motor's deepest
 **`— END OF TRANSMISSION —`**
 
 </div>
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/Hackyharish?v=1787552666993"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
