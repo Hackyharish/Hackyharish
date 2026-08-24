@@ -31709,7 +31709,7 @@
         "y": 402
       },
       "size": {
-        "width": 536,
+        "width": 800,
         "height": 160
       },
       "config": {},
@@ -31717,36 +31717,6 @@
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1787551191356_3"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 544,
-        "y": 402
-      },
-      "size": {
-        "width": 240,
-        "height": 160
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "html",
-          "css",
-          "py",
-          "rust",
-          "go",
-          "cpp"
-        ],
-        "theme": "dark",
-        "perLine": 4
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787551191356_5"
     }
   ],
   "globalStyles": {
