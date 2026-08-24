@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://gitascii.com">
+  <img src="https://gitascii.com/api/Hackyharish?v=1787552822084" alt="GitAscii Widget" width="100%" />
+</a>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Power+Electronics+%7C+Deep+Learning+%7C+MATLAB;MOSFETs+%7C+Converters+%7C+Solar;Always+Debugging%2C+Never+Sleeping+%E2%9A%A1)
 
 # `>> WHO AM I?`
@@ -19,7 +23,7 @@
 PROJECT    : Self-Commissioning Drive for PMSM using CCS-MPC with Prognostics using AI
 STATUS     : 🟡 IN PROGRESS — CCS-MPC + SVPWM model on STM32G474 / Typhoon HIL404
 SIGNALS_IN : Deep Learning · MATLAB/Simulink · Embedded C
-REPO       : https://github.com/Hackyharish/Self-Commissioning-Drive-for-PMSM-using-CCS-MPC-with-prognostics-using-AI
+REPO       : [https://github.com/Hackyharish/Self-Commissioning-Drive-for-PMSM-using-CCS-MPC-with-prognostics-using-AI](https://github.com/Hackyharish/Self-Commissioning-Drive-for-PMSM-using-CCS-MPC-with-prognostics-using-AI)
 RISK_LEVEL : Medium (parameter self-commissioning may reveal the motor's deepest insecurities)
 ```
 
@@ -58,7 +62,6 @@ RISK_LEVEL : Medium (parameter self-commissioning may reveal the motor's deepest
 ## `[03]` 📡 Signal Logs — GitHub Stats
 
 <div align="center">
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hackyharish&theme=dark&hide_border=true&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
 
@@ -99,12 +102,3 @@ RISK_LEVEL : Medium (parameter self-commissioning may reveal the motor's deepest
 **`— END OF TRANSMISSION —`**
 
 </div>
-
-
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/Hackyharish?v=1787553564845"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
