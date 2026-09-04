@@ -1,12 +1,6 @@
 <div align="center">
 
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/Hackyharish?v=1787553865468"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Power+Electronics+%7C+Deep+Learning+%7C+MATLAB;MOSFETs+%7C+Converters+%7C+Solar;Always+Debugging%2C+Never+Sleeping+%E2%9A%A1)
 
